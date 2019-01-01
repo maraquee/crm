@@ -1,0 +1,16 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "crm app with angular and express for arkstrade company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "express",
+    "arkstrade"
+  ],
+  "author": "Maxim Vorontsov",
+  "license": "ISC"
+}
